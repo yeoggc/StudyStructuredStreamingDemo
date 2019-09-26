@@ -24,7 +24,7 @@
 hs_err_pid*
 
 .idea
-*.iml
+*.
 target/
-pom.xml
-src/
+
+StudyStructuredStreamingDemo.iml
